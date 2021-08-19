@@ -1,0 +1,5 @@
+
+SELECT * FROM `resources` WHERE name IN
+('payment.cash', 'Printer.CloseCash.Preview', 'Printer.CloseCash',
+'Printer.PartialCash', 'Printer.ReprintTicket', 'Printer.Ticket',
+'Printer.TicketPreview');
