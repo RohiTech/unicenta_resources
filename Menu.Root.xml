@@ -55,6 +55,7 @@ submenu.addTitle("Proveedores");
         submenu.addPanel("/com/openbravo/images/reports.png", "Menu.InventoryDiffDetail", "/com/openbravo/reports/inventorydiffdetail.bs");
         submenu.addPanel("/com/openbravo/images/reports.png", "Menu.InventoryListDetail", "/com/openbravo/reports/inventorylistdetail.bs");
         submenu.addPanel("/com/openbravo/images/reports.png", "Menu.Products", "/com/openbravo/reports/products.bs");
+		submenu.addPanel("/com/openbravo/images/reports.png", "Menu.ProductsV2", "/com/openbravo/reports/productsV2.bs");
 //        submenu.addPanel("/com/openbravo/images/reports.png", "Menu.ProductCatalog", "/com/openbravo/reports/productscatalog.bs");
         submenu.addPanel("/com/openbravo/images/reports.png", "Menu.SaleCatalog", "/com/openbravo/reports/salecatalog.bs");
         submenu.addPanel("/com/openbravo/images/reports.png", "Menu.ProductLabels", "/com/openbravo/reports/productlabels.bs");
