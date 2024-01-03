@@ -115,7 +115,7 @@ ORDER BY locations.ID, categories.NAME, products.NAME]]>
 						<font fontName="SansSerif" size="11" isBold="true" isItalic="false" isUnderline="false" isStrikeThrough="false" pdfFontName="Helvetica" pdfEncoding="Cp1252" isPdfEmbedded="false"/>
 						<paragraph lineSpacing="Single"/>
 					</textElement>
-					<textFieldExpression><![CDATA[$R{label.sumin}]]></textFieldExpression>
+					<textFieldExpression><![CDATA["Total Entradas"]]></textFieldExpression>
 				</textField>
 				<textField pattern="" isBlankWhenNull="false">
 					<reportElement key="textField-5" mode="Opaque" x="230" y="17" width="100" height="15" forecolor="#000000" backcolor="#FFFFFF" uuid="5a1687dc-7d2b-4dea-b259-fb6819b86c34"/>
@@ -143,7 +143,7 @@ ORDER BY locations.ID, categories.NAME, products.NAME]]>
 						<font fontName="SansSerif" size="11" isBold="true" isItalic="false" isUnderline="false" isStrikeThrough="false" pdfFontName="Helvetica" pdfEncoding="Cp1252" isPdfEmbedded="false"/>
 						<paragraph lineSpacing="Single"/>
 					</textElement>
-					<textFieldExpression><![CDATA[$R{label.sumout}]]></textFieldExpression>
+					<textFieldExpression><![CDATA["Total Salidas"]]></textFieldExpression>
 				</textField>
 				<textField pattern="" isBlankWhenNull="false">
 					<reportElement key="textField-16" mode="Opaque" x="436" y="2" width="100" height="15" forecolor="#000000" backcolor="#FFFFFF" uuid="f956e02f-1109-469c-bb61-38ff202ee223"/>
@@ -157,7 +157,7 @@ ORDER BY locations.ID, categories.NAME, products.NAME]]>
 						<font fontName="SansSerif" size="11" isBold="true" isItalic="false" isUnderline="false" isStrikeThrough="false" pdfFontName="Helvetica" pdfEncoding="Cp1252" isPdfEmbedded="false"/>
 						<paragraph lineSpacing="Single"/>
 					</textElement>
-					<textFieldExpression><![CDATA[$R{label.sumdiff}]]></textFieldExpression>
+					<textFieldExpression><![CDATA["Total Diferencia"]]></textFieldExpression>
 				</textField>
 				<textField pattern="" isBlankWhenNull="false">
 					<reportElement key="textField-5" mode="Opaque" x="333" y="17" width="100" height="15" forecolor="#000000" backcolor="#FFFFFF" uuid="b6759995-e368-42ea-9205-884af493706f"/>
